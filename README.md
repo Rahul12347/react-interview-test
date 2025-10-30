@@ -1,1 +1,1 @@
-# react-interview-test
+when child button clicked the onsendMessage(data) gets called then parent's handlechildMessage(data) runs after that setMessage() updates parent state the parent re renders a new message got displayed.
